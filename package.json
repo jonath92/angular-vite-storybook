@@ -33,6 +33,7 @@
     "@storybook/addon-links": "^7.6.4",
     "@storybook/angular": "^7.6.4",
     "@storybook/blocks": "^7.6.4",
+    "@storybook/builder-vite": "^7.6.4",
     "@storybook/test": "^7.6.4",
     "@types/jasmine": "~4.3.0",
     "jasmine-core": "~4.6.0",
